@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gustavo Veloso
 
 
-- 🔭  Estudante
+- 🔭  Frontend Student
 - 🌱 I’m currently learning  Javascript e Typescript
 - 📫 How to reach me:  gustavovelosofe@gmaill.com
 - 😄 Pronouns: ele/dele
